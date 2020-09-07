@@ -22,6 +22,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 // MARK: Debugging & Developer options
 public extension IQKeyboardManager {

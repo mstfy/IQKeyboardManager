@@ -22,6 +22,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 // MARK: UIKeyboard Notifications
 public extension IQKeyboardManager {

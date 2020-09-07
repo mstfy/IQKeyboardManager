@@ -22,6 +22,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 #if swift(>=4.2)
 internal let UIKeyboardWillShowNotification  = UIResponder.keyboardWillShowNotification

@@ -22,6 +22,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 // MARK: UITextField/UITextView Notifications
 internal extension IQKeyboardManager {

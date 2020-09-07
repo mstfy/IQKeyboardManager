@@ -22,6 +22,7 @@
 // THE SOFTWARE.
 
 import Foundation
+import UIKit
 
 // MARK: UIStatusBar Notification methods
 internal extension IQKeyboardManager {
